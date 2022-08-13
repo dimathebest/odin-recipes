@@ -1,0 +1,38 @@
+#titolone  {
+    text-align: center;
+    font-size: 45px;
+    background-color: hsl(50, 15%, 36%);
+    color: rgba(90, 10, 90);
+}
+
+img {
+    height: 500px;
+    width: 1900px ;
+}
+
+#descrizione_img {
+    text-align: center;
+    color: rgb(168, 13, 21);
+}
+
+.intestazione {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+    background-color: black;
+    color: aliceblue;
+}
+.primo_elenco {
+
+    color: rgb(255, 72, 0);
+}
+
+.dispari {
+    background-color: yellow;
+    color: grey;
+}
+
+.pari{
+    background-color: pink;
+    color: blue;
+}

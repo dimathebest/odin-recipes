@@ -1,0 +1,23 @@
+#heading {
+
+    font-family: "Courier New", Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(194, 117, 17);  
+    color: rgb(172, 189, 26);  
+}
+
+.indexlist {
+    color: rgb(221, 90, 90);
+    font-size: 25px;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+}
+
+img {
+
+    height: 500px;
+    width: 500px;
+    ;
+}
+    

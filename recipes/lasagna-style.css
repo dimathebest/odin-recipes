@@ -1,0 +1,40 @@
+.si {
+
+    color: green;
+    font-size: 33px;
+}
+
+.no, .ordinato { 
+    background-color: fuchsia;
+    color: black;
+}
+
+#descri {
+    text-align: right;
+    font-size: 23px;
+}
+
+#head {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 33px;
+    text-align: center;
+}
+
+.impo {
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 25px;
+    background-color: brown;
+}
+
+.glih3 {
+
+    font-size: 33px;
+    color: rgb(41, 12, 12);
+    font-weight: bolder;
+}
+
+.ordinato{
+    color: aliceblue;
+}

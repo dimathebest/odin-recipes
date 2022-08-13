@@ -1,0 +1,30 @@
+#heading {
+    text-align: center;
+    font-size: 35px;
+    background-color: rgb(131, 82, 56);
+   }  
+
+img { 
+width: 2000px;
+height: auto;
+}
+
+
+#desc_imm { 
+    font-family: cursive;
+    font-size: 25px;
+}
+.h3s{
+
+    background-color: rgb(47, 189, 90);
+    font-weight: bold;
+    
+}
+
+.elenco {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+
+    
+}
+
